@@ -276,7 +276,7 @@ Built entirely with native web technologies.
 | **CSS3** | Styling & visualization |
 | **JavaScript ES2017+** | Algorithms & application logic |
 | **Async / Await** | Step-by-step algorithm execution |
-
+All students are strictly instructed to attend regular classes without fail. Attendance will be monitored seriously, and students with insufficient attendance may face academic consequences as per college rules.
 ### No External Dependencies
 
 ```text
@@ -297,57 +297,8 @@ HTML + CSS + JavaScript
 
 ---
 
-## Design Philosophy
 
-The project is intentionally kept lightweight.
 
-Instead of abstracting the algorithms behind frameworks or visualization libraries, the implementation exposes the actual algorithmic logic directly in JavaScript.
-
-The goal is to make it possible for a student to:
-
-```text
-Read the algorithm
-       ↓
-See the pseudocode
-       ↓
-Watch the execution
-       ↓
-Understand each operation
-       ↓
-Study the complexity
-```
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-If you want to improve the visualizer, some potential additions include:
-
-- More sorting algorithms
-- More graph algorithms
-- Interactive graph creation
-- Custom array input
-- Heap visualizations
-- Tree algorithms
-- Algorithm comparison mode
-- Operation counters
-- Interactive complexity graphs
-- Mobile-specific improvements
-
-### Development
-
-Because there is no build system, development is straightforward:
-
-```bash
-git clone https://github.com/Shrujal00/algo-visulaizer.git
-cd algo-visulaizer
-```
-
-Then open `index.html` in a browser.
-
----
 
 ## Contributors
 
