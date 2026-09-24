@@ -1,4 +1,4 @@
-# DAA Visualizer
+# DAA Visualizer [Live Demo](https://algo-visulaizer.pages.dev/)
 
 A lightweight, in-browser visualizer for classic algorithms taught in a Design & Analysis of Algorithms (DAA) course. Watch sorting algorithms sort and graph algorithms traverse, step by step, with the underlying pseudocode highlighted in sync.
 
