@@ -13,14 +13,6 @@ Watch algorithms execute visually while the corresponding **pseudocode is highli
 
 ---
 
-## Live Demo
-
-### [→ Open DAA Visualizer](https://algo-visulaizer.pages.dev/)
-
-Everything runs directly in the browser. No installation or backend is required.
-
----
-
 ## Features
 
 ### Sorting Algorithms
